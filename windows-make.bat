@@ -1,2 +1,2 @@
 make
-pause
+rmdir build /s
